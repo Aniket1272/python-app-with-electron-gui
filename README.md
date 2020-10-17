@@ -43,6 +43,7 @@ JS and Python can be used to interact together. This demo is *NOT* meant to show
     * If you want to use the object detection module, make sure the flask server [object_detection.py] is up and running before starting the GUI.
 	```sh
 	$ cd engine
+	$ python file_detection.py
 	$ python object_detection.py
 	```
 
